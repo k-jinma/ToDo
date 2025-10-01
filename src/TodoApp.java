@@ -9,6 +9,7 @@ public class TodoApp {
     
     public TodoApp() {
         this.todoManager = new TodoManager();
+        
     }
     
     /**
